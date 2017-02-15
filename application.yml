@@ -27,7 +27,7 @@ spring:
       kafka:
         binder:
           brokers: 10.92.7.17:9092
-          zkNodes: 10.92.7.16:2181,10.92.7.17:2181,10.92.7.18:2181
+          zkNodes: 10.92.7.17:2181
 
 # Discovery Server Access
 eureka:
